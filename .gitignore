@@ -1,7 +1,9 @@
 # Vivado generated files
-.cache/
-.hw/
-.ip_user_files/
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.gen/
 .Xil/
 
 # Build outputs
